@@ -3,6 +3,10 @@
 ## Getting Started
 
 This project implements Word2Vec algorithm (The Continuous Bag Of Words and not the skipgram model) from scratch and by using the gensim library.
+The dataset used is the text from the 8 novels of Harry Potter series.
+Get the dataset at: [Harry Potter Dataset](https://github.com/gastonstat/harry-potter-data)
+
+
 ### Tech Stack
 
 * PyTorch 
